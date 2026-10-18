@@ -275,4 +275,4 @@ evall 預期提供以下安全檢查：
 ## License
 
 本專案使用**QLPL-v1.0 LICENSE**(Qufij Letuc Public License)
-請見(LICENSE)[LICENSE]
+請見[LICENSE](LICENSE)
